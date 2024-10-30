@@ -25,6 +25,17 @@
 ![Static Badge](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=Shell&logoColor=fff)--->
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 22 October 2024 - To: 29 October 2024
+
+Total Time: 7 hrs 32 mins
+
+Other        5 hrs 44 mins   >>>>>>>>>>>--------------   43.21 %
+Python       3 hrs 56 mins   >>>>>>>------------------   29.72 %
+C++          1 hr 52 mins    >>>>---------------------   14.11 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
