@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2024 - To: 13 November 2024
+From: 07 November 2024 - To: 14 November 2024
 
-Total Time: 4 hrs 22 mins
+Total Time: 1 hr 33 mins
 
-Other        5 hrs 56 mins   >>>>>>>>>>>>>>-----------   57.60 %
-C++          1 hr 55 mins    >>>>>--------------------   18.74 %
-Python       1 hr 26 mins    >>>>---------------------   14.00 %
+Other        8 hrs 29 mins   >>>>>>>>>>>>>>>>>>>>>----   84.43 %
+C            22 mins         >------------------------   03.74 %
+TypeScript   19 mins         >------------------------   03.31 %
 ```
 
 <!--END_SECTION:waka-->
