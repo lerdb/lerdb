@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2025 - To: 20 January 2025
+From: 15 January 2025 - To: 22 January 2025
 
-Total Time: 12 hrs 1 min
+Total Time: 5 hrs 3 mins
 
-Other             10 hrs          >>>>>>>>>>>--------------   45.43 %
-Python            4 hrs 47 mins   >>>>>--------------------   21.72 %
-HTML              3 hrs 16 mins   >>>>---------------------   14.86 %
+Other             8 hrs 41 mins   >>>>>>>>>>>>>>>>---------   63.21 %
+HTML              1 hr 42 mins    >>>----------------------   12.38 %
+Dart              1 hr 16 mins    >>-----------------------   09.25 %
 ```
 
 <!--END_SECTION:waka-->
