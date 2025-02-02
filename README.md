@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2025 - To: 31 January 2025
+From: 25 January 2025 - To: 01 February 2025
 
-Total Time: 4 hrs 23 mins
+Total Time: 6 hrs 9 mins
 
-Other         6 hrs 37 mins   >>>>>>>>>>>>>>>----------   60.14 %
-Markdown      2 hrs           >>>>>--------------------   18.25 %
-Python        48 mins         >>-----------------------   07.39 %
+Other         8 hrs 13 mins   >>>>>>>>>>>>>>-----------   57.21 %
+Markdown      2 hrs           >>>----------------------   13.94 %
+TypeScript    1 hr 3 mins     >>-----------------------   07.41 %
 ```
 
 <!--END_SECTION:waka-->
