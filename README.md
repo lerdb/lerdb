@@ -25,6 +25,17 @@
 ![Static Badge](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=Shell&logoColor=fff)--->
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 07 February 2025 - To: 14 February 2025
+
+Total Time: 21 hrs 1 min
+
+Python       9 hrs 38 mins   >>>>>>>>-----------------   32.00 %
+Other        9 hrs 7 mins    >>>>>>>>-----------------   30.27 %
+JavaScript   7 hrs 50 mins   >>>>>>>------------------   26.02 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
