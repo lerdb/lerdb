@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 February 2025 - To: 01 March 2025
+From: 23 February 2025 - To: 02 March 2025
 
-Total Time: 17 hrs 24 mins
+Total Time: 12 hrs 11 mins
 
-Other         9 hrs 7 mins    >>>>>>>>>----------------   34.41 %
-C++           5 hrs 23 mins   >>>>>--------------------   20.33 %
-Python        5 hrs 16 mins   >>>>>--------------------   19.87 %
+Other        7 hrs 14 mins   >>>>>>>>>----------------   37.24 %
+Python       4 hrs 17 mins   >>>>>>-------------------   22.05 %
+TypeScript   3 hrs 20 mins   >>>>---------------------   17.21 %
 ```
 
 <!--END_SECTION:waka-->
