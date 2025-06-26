@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2025 - To: 24 June 2025
+From: 18 June 2025 - To: 25 June 2025
 
-Total Time: 8 hrs 2 mins
+Total Time: 5 hrs 21 mins
 
-Other        15 hrs 9 mins   >>>>>>>>>>>>>>>>---------   65.35 %
-Python       4 hrs 58 mins   >>>>>--------------------   21.48 %
-Git Config   1 min           -------------------------   00.13 %
+Other        16 hrs 11 mins  >>>>>>>>>>>>>>>>>>>------   75.12 %
+Python       3 hrs 23 mins   >>>>---------------------   15.74 %
+Git Config   3 mins          -------------------------   00.25 %
 ```
 
 <!--END_SECTION:waka-->
