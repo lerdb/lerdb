@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2025 - To: 04 August 2025
+From: 29 July 2025 - To: 05 August 2025
 
-Total Time: 11 hrs 3 mins
+Total Time: 9 hrs 56 mins
 
-C++                6 hrs 21 mins   >>>>>>>>>----------------   36.75 %
-Other              6 hrs 11 mins   >>>>>>>>>----------------   35.84 %
-CMake              2 hrs 9 mins    >>>----------------------   12.48 %
+C++                5 hrs 55 mins   >>>>>>>>>----------------   37.73 %
+Other              5 hrs 41 mins   >>>>>>>>>----------------   36.31 %
+CMake              1 hr 49 mins    >>>----------------------   11.65 %
 ```
 
 <!--END_SECTION:waka-->
