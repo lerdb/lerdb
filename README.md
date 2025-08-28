@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2025 - To: 26 August 2025
+From: 20 August 2025 - To: 27 August 2025
 
-Total Time: 1 hr 10 mins
+Total Time: 34 mins
 
-Other    3 hrs 2 mins    >>>>>>>>>>>>>>>>>>-------   72.16 %
-C++      1 hr 2 mins     >>>>>>-------------------   24.68 %
-Python   6 mins          >------------------------   02.65 %
+Other    2 hrs 41 mins   >>>>>>>>>>>>>>>>>>>>>----   82.46 %
+C++      26 mins         >>>----------------------   13.44 %
+Python   6 mins          >------------------------   03.43 %
 ```
 
 <!--END_SECTION:waka-->
