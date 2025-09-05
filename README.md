@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2025 - To: 03 September 2025
+From: 28 August 2025 - To: 04 September 2025
 
-Total Time: 6 hrs 10 mins
+Total Time: 5 hrs 47 mins
 
-Other        11 hrs 4 mins   >>>>>>>>>>>>>>>>---------   64.25 %
-Rust         1 hr 56 mins    >>>----------------------   11.23 %
-C++          1 hr 44 mins    >>>----------------------   10.13 %
+Other        12 hrs 9 mins   >>>>>>>>>>>>>>>>>--------   67.72 %
+Rust         1 hr 42 mins    >>-----------------------   09.50 %
+C++          1 hr 41 mins    >>-----------------------   09.42 %
 ```
 
 <!--END_SECTION:waka-->
