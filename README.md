@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2025 - To: 10 September 2025
+From: 04 September 2025 - To: 11 September 2025
 
-Total Time: 2 hrs 33 mins
+Total Time: 1 hr 16 mins
 
-Other              8 hrs 19 mins   >>>>>>>>>>>>>>>>>>>------   76.49 %
-JavaScript         1 hr 3 mins     >>-----------------------   09.70 %
-Vue.js             36 mins         >------------------------   05.57 %
+Other              6 hrs 20 mins   >>>>>>>>>>>>>>>>>>>>>----   83.21 %
+Vue.js             36 mins         >>-----------------------   07.97 %
+TypeScript         14 mins         >------------------------   03.08 %
 ```
 
 <!--END_SECTION:waka-->
