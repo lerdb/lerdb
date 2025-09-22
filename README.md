@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2025 - To: 19 September 2025
+From: 13 September 2025 - To: 20 September 2025
 
-Total Time: 5 hrs 2 mins
+Total Time: 5 hrs 51 mins
 
-Other        6 hrs 33 mins   >>>>>>>>>>>>>>-----------   56.56 %
-C            1 hr 37 mins    >>>>---------------------   14.07 %
-TypeScript   1 hr 11 mins    >>>----------------------   10.34 %
+Other        5 hrs 28 mins   >>>>>>>>>>>>-------------   48.33 %
+C            1 hr 57 mins    >>>>---------------------   17.31 %
+TypeScript   1 hr 11 mins    >>>----------------------   10.57 %
 ```
 
 <!--END_SECTION:waka-->
