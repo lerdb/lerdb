@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2025 - To: 10 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
-Total Time: 14 hrs 41 mins
+Total Time: 10 hrs 20 mins
 
-Other        12 hrs 3 mins   >>>>>>>>>>>--------------   45.08 %
-V            9 hrs 51 mins   >>>>>>>>>----------------   36.87 %
-Vue.js       2 hrs 28 mins   >>-----------------------   09.27 %
+Other        15 hrs 48 mins  >>>>>>>>>>>>>>>----------   60.46 %
+V            4 hrs 59 mins   >>>>>--------------------   19.09 %
+Vue.js       2 hrs 28 mins   >>-----------------------   09.48 %
 ```
 
 <!--END_SECTION:waka-->
