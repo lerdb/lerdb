@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 06 January 2026
+From: 31 December 2025 - To: 07 January 2026
 
-Total Time: 6 hrs 19 mins
+Total Time: 3 hrs 17 mins
 
-Other        13 hrs 28 mins  >>>>>>>>>>>>>>>>>--------   68.08 %
-JavaScript   3 hrs 59 mins   >>>>>--------------------   20.15 %
-C++          1 hr 34 mins    >>-----------------------   07.94 %
+Other        15 hrs 34 mins  >>>>>>>>>>>>>>>>>>>>>----   82.57 %
+C++          1 hr 43 mins    >>-----------------------   09.11 %
+JavaScript   1 hr 19 mins    >>-----------------------   06.99 %
 ```
 
 <!--END_SECTION:waka-->
