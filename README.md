@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2026 - To: 20 January 2026
+From: 14 January 2026 - To: 21 January 2026
 
-Total Time: 21 hrs 39 mins
+Total Time: 21 hrs 30 mins
 
-Other        26 hrs 15 mins  >>>>>>>>>>>>>>-----------   54.80 %
-C++          12 hrs 49 mins  >>>>>>>------------------   26.76 %
-C            5 hrs 28 mins   >>>----------------------   11.42 %
+Other        26 hrs 51 mins  >>>>>>>>>>>>>>-----------   55.53 %
+C++          11 hrs 24 mins  >>>>>>-------------------   23.60 %
+C            5 hrs 10 mins   >>>----------------------   10.69 %
 ```
 
 <!--END_SECTION:waka-->
