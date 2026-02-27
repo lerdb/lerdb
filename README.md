@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2026 - To: 25 February 2026
+From: 19 February 2026 - To: 26 February 2026
 
-Total Time: 5 hrs 58 mins
+Total Time: 6 hrs 54 mins
 
-Other               2 hrs 14 mins         >>>>>>>------------------   27.25 %
-Groovy              2 hrs 12 mins         >>>>>>>------------------   26.93 %
-TypeScript          1 hr 43 mins          >>>>>--------------------   21.05 %
+Groovy              2 hrs 39 mins         >>>>>>>------------------   28.03 %
+Other               2 hrs 35 mins         >>>>>>>------------------   27.24 %
+TypeScript          1 hr 44 mins          >>>>>--------------------   18.27 %
 ```
 
 <!--END_SECTION:waka-->
