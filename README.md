@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2026 - To: 28 March 2026
+From: 22 March 2026 - To: 29 March 2026
 
-Total Time: 2 hrs 45 mins
+Total Time: 3 hrs
 
-Other            21 hrs 26 mins        >>>>>>>>>>>>>>>>>>>>>>---   88.57 %
-C++              53 mins               >------------------------   03.69 %
-RGBDS Assembly   45 mins               >------------------------   03.10 %
+Other            22 hrs 35 mins        >>>>>>>>>>>>>>>>>>>>>>---   88.27 %
+C++              1 hr 7 mins           >------------------------   04.39 %
+RGBDS Assembly   45 mins               >------------------------   02.96 %
 ```
 
 <!--END_SECTION:waka-->
