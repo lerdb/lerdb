@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2026 - To: 05 April 2026
+From: 30 March 2026 - To: 06 April 2026
 
-Total Time: 9 hrs 18 mins
+Total Time: 11 hrs 53 mins
 
-Other        16 hrs 26 mins        >>>>>>>>>>>>>>>>---------   63.85 %
-Python       3 hrs 59 mins         >>>>---------------------   15.47 %
-HTML         1 hr 53 mins          >>-----------------------   07.33 %
+Other        17 hrs 55 mins        >>>>>>>>>>>>>>>----------   60.10 %
+Python       5 hrs 40 mins         >>>>>--------------------   19.03 %
+HTML         1 hr 54 mins          >>-----------------------   06.38 %
 ```
 
 <!--END_SECTION:waka-->
