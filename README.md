@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2026 - To: 28 April 2026
+From: 22 April 2026 - To: 29 April 2026
 
-Total Time: 14 hrs 54 mins
+Total Time: 13 hrs 18 mins
 
-Other        15 hrs 2 mins         >>>>>>>>>>>>>------------   50.21 %
-Kotlin       3 hrs 8 mins          >>>----------------------   10.49 %
-TypeScript   2 hrs 41 mins         >>-----------------------   08.99 %
+Other        14 hrs 35 mins        >>>>>>>>>>>>>------------   52.29 %
+TypeScript   3 hrs 28 mins         >>>----------------------   12.48 %
+Kotlin       1 hr 57 mins          >>-----------------------   07.04 %
 ```
 
 <!--END_SECTION:waka-->
