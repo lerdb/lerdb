@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2026 - To: 22 May 2026
+From: 16 May 2026 - To: 23 May 2026
 
-Total Time: 5 hrs 59 mins
+Total Time: 6 hrs 19 mins
 
-Other            20 hrs 30 mins        >>>>>>>>>>>>>>>>>>>------   77.37 %
-V                4 hrs 19 mins         >>>>---------------------   16.32 %
-Python           53 mins               >------------------------   03.39 %
+Other            20 hrs 9 mins         >>>>>>>>>>>>>>>>>>>------   76.10 %
+V                5 hrs 33 mins         >>>>>--------------------   20.97 %
+RGBDS Assembly   40 mins               >------------------------   02.55 %
 ```
 
 <!--END_SECTION:waka-->
