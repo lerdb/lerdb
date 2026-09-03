@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2026 - To: 01 September 2026
+From: 26 August 2026 - To: 02 September 2026
 
-Total Time: 24 hrs 28 mins
+Total Time: 30 hrs 22 mins
 
-Other             27 hrs 13 mins        >>>>>>>>>>>>>------------   52.67 %
-C                 6 hrs 27 mins         >>>----------------------   12.49 %
-Rust              4 hrs 33 mins         >>-----------------------   08.80 %
+Other             30 hrs 56 mins        >>>>>>>>>>>>>------------   50.46 %
+Rust              7 hrs 24 mins         >>>----------------------   12.09 %
+C                 6 hrs 27 mins         >>>----------------------   10.53 %
 ```
 
 <!--END_SECTION:waka-->
