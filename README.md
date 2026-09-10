@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2026 - To: 08 September 2026
+From: 02 September 2026 - To: 09 September 2026
 
-Total Time: 24 hrs 56 mins
+Total Time: 20 hrs 29 mins
 
-Other             21 hrs 18 mins        >>>>>>>>>>>>-------------   46.08 %
-Rust              8 hrs 49 mins         >>>>>--------------------   19.06 %
-Python            2 hrs 26 mins         >------------------------   05.29 %
+Other             18 hrs 42 mins        >>>>>>>>>>>>-------------   47.72 %
+Rust              5 hrs 57 mins         >>>>---------------------   15.19 %
+Markdown          2 hrs 37 mins         >>-----------------------   06.70 %
 ```
 
 <!--END_SECTION:waka-->
