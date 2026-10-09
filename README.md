@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 07 October 2026
+From: 01 October 2026 - To: 08 October 2026
 
-Total Time: 6 hrs 25 mins
+Total Time: 6 hrs 45 mins
 
-Other   26 hrs 4 mins         >>>>>>>>>>>>>>>>>>>>-----   80.22 %
+Other   24 hrs 53 mins        >>>>>>>>>>>>>>>>>>>>-----   78.65 %
 ```
 
 <!--END_SECTION:waka-->
