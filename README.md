@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2026 - To: 01 November 2026
+From: 27 October 2026 - To: 03 November 2026
 
 Total Time: 28 hrs 17 mins
 
-Other             11 hrs 23 mins        >>>>>>>------------------   28.70 %
-Markdown          10 hrs 18 mins        >>>>>>-------------------   25.97 %
-Kotlin            6 hrs 58 mins         >>>>---------------------   17.57 %
+Markdown          12 hrs 10 mins        >>>>>>>>-----------------   30.66 %
+Other             11 hrs 23 mins        >>>>>>>------------------   28.71 %
+Kotlin            5 hrs 54 mins         >>>>---------------------   14.88 %
 ```
 
 <!--END_SECTION:waka-->
