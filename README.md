@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2026 - To: 11 November 2026
+From: 05 November 2026 - To: 12 November 2026
 
-Total Time: 26 hrs 41 mins
+Total Time: 26 hrs 58 mins
 
-Other        16 hrs 40 mins        >>>>>>>>>>---------------   38.44 %
-C++          13 hrs 33 mins        >>>>>>>>-----------------   31.28 %
-Markdown     3 hrs 58 mins         >>-----------------------   09.16 %
+Other             18 hrs 18 mins        >>>>>>>>>>---------------   40.44 %
+C++               13 hrs 47 mins        >>>>>>>>-----------------   30.47 %
+Markdown          3 hrs 36 mins         >>-----------------------   07.98 %
 ```
 
 <!--END_SECTION:waka-->
